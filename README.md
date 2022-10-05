@@ -1,0 +1,2 @@
+# Tranfer-Learning-ITR
+NSF and NSA funded statistical research on applying the Transfer Learning framework based on Causal Inference and Potential Outcome framework with an emphasis on Calibrated Weighting and Augmented Inverse Propensity Weighting to develop optimal, interpretable, targeted individual treatment rules in linear and tree forms, specifically, using sepsis patients' data from eICU-CRD and MIMIC-III databases.
